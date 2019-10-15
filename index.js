@@ -21,4 +21,3 @@ sayHiToGrandma(string) {
   }
   return response
 }
-}
